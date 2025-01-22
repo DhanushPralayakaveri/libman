@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>libman</artifactId>
+  <artifactId>library</artifactId>
   <version>y</version>
   <packaging>war</packaging>
 
-  <name>libman Maven Webapp</name>
+  <name>library Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>libman</finalName>
+    <finalName>library</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
